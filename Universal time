@@ -1,1 +1,6 @@
-rconsoleprint('script is down they have a anti tp now lool')
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "noti";
+Text = "join the new discord\nhttps://discord.gg/c6yVyDwP";
+Duration = 5100000;
+})
