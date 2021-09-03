@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
 Title = "AUT SCRIPT"; 
 Text = "Join the discord for updates\ndiscord.gg/pleasejoinus, 
-Duration = 5; -- how long the notification should in secounds
+Duration = 5; 
 })
